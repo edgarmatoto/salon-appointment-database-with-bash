@@ -1,1 +1,1 @@
-# salon-appointment-database-with-bash
+# salon-appointment-database-with-bash-scripting
